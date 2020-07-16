@@ -1,5 +1,6 @@
 #Particular
 */uploads/*
+*/tmp/*
 backups/
 docs/
 *.code-workspace
